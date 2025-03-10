@@ -30,7 +30,3 @@ Atualmente, estou focado em:
 ## 📫 Como entrar em contato
 
 Você pode me encontrar no 👔 [LinkedIn](https://www.linkedin.com/in/joao-gabriel-2285b2231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
-
----
-
-Valeu 👍
