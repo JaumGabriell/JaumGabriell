@@ -1,6 +1,8 @@
 ## João Gabriel 
 🎓 Estudante da Inatel
 
+## 🛠️ Sobre este perfil
+
 <!--
 **JaumGabriell/JaumGabriell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
