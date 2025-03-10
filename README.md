@@ -23,7 +23,7 @@ Este perfil contém os códigos de trabalhos e projetos feitos por mim durante m
 
 Atualmente, estou focado em:
 
-- Projeto Site para reservas em HTML e CSS 🐿:  [AnaJuliaChalés](https://anajuliachales.neocities.org/#) 
+- Projeto Site para reservas em HTML e CSS: 🐿 [AnaJuliaChalés](https://anajuliachales.neocities.org/#) 
 
 ---
 
